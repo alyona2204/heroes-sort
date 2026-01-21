@@ -1,4 +1,4 @@
 # Test Function
 
-[![Node.js CI](https://github.com/alyona2204/heroes-sort/actions/workflows/nodejs.yml/badge.svg)](https://github.com/alyona2204/heroes-sort/actions/workflows/nodejs.yml)
+[![Node.js CI](https://github.com/alyona2204/test-function/actions/workflows/nodejs.yml/badge.svg)](https://github.com/alyona2204/test-function/actions/workflows/nodejs.yml)
 
